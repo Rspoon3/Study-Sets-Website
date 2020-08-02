@@ -3,7 +3,7 @@ module.exports = {
   appstore_link         : "https://apps.apple.com/my/app/body-insights/id1397531585",                                  
   playstore_link        : null,                                        
   google_analytics_ID   : null,                                       
-  presskit_download_link: "https://drive.google.com/file/d/1Ke7sCRwAUhmnz8XGTQDsz6nsLwLyeaXW/view?usp=sharing",                                        
+  presskit_download_link: "https://drive.google.com/drive/folders/19FpImRTF5RaMTG5q6kIX2rtF2CIj_5H6?usp=sharing",                                        
   video_or_screenshot   : "screenshot",                                 // "screenshot" or "video"
   app_url               : "https://studysets.app/",                              // Domain of your website without path_prefix.
   path_prefix           : "/",                                          // Prefixes all links. For cases when deployed to example.github.io/automatic-gatsbyjs-app-landing-page/.
