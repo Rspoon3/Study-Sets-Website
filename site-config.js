@@ -1,6 +1,6 @@
 module.exports = {
   // App Info
-  appstore_link         : "https://testflight.apple.com/join/rrIF6Vnc"//"https://apps.apple.com/my/app/body-insights/id1397531585",                                  
+  appstore_link         : "https://testflight.apple.com/join/rrIF6Vnc", //"https://apps.apple.com/my/app/body-insights/id1397531585",                                  
   playstore_link        : null,                                        
   google_analytics_ID   : null,                                       
   presskit_download_link: "https://drive.google.com/drive/folders/19FpImRTF5RaMTG5q6kIX2rtF2CIj_5H6?usp=sharing",                                        
