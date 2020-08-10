@@ -8,7 +8,7 @@ With three different ways to study (matching, flashcards, and multiple choice) a
 
 As a subscription app ($0.99/month or $9.99 /year), all of the features are included for free without payment. The exception to this is that as a non-paying customer you are limited to creating 50 cards.
 
-Between now and the iOS 14 release, I plan on continuing to polish the final design while listening to user feedback. I would greatly appreciate it if you could take some time to check it out. Please feel free to reach out via this email or on Twitter if you have any questions.
+Between now and the iOS 14 release, I plan on continuing to polish the final design while listening to user feedback. I would greatly appreciate it if you could take some time to check it out. Please feel free to reach out via email or on Twitter.
  
 
 Here is a brief recap of some supported features:
