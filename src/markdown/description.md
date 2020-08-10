@@ -2,7 +2,13 @@
 
 School is hard enough. Lets make studying easier. 
 
-Study Sets is the simplest app for creating and learning study cards. With features such as OCR, picture support, offline and iCloud sync, you can study anywhere and everywhere more efficent then ever. Because we're a subscription based app, you won't ever be upselled to purchase new features. Even better you can try all of the features *for free* with the only exception being that your limited to creating 50 cards.
+The goal was to create an app that is easy and intuitive, while taking advantage of native iOS features, such as split screen and multi-window. By targeting iOS 14, I'm including some of Apple's latest technologies from the start, such as the sidebar on iPad and the cool new color picker. 
+
+With three different ways to study (matching, flashcards, and multiple choice) and features such as picture support, OCR, offline and iCloud sync, music integration, export and importing, studying has never been easier. 
+
+As a subscription app ($0.99/month or $9.99 /year), all of the features are included for free without payment. The exception to this is that as a non-paying customer you are limited to creating 50 cards.
+
+Between now and the iOS 14 release, I plan on continuing to polish the final design while listening to user feedback. I would greatly appreciate it if you could take some time to check it out. Please feel free to reach out via this email or on Twitter if you have any questions.
  
 
 Here is a brief recap of some supported features:
