@@ -1,4 +1,4 @@
-# Privacy Policy
+# Privacy Policy & Terms
 
 Study Sets collects no information from you. Other than your data syncing between your devices via iCloud, all of your data is store securly on your device.
 ​
